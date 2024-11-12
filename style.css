@@ -78,11 +78,9 @@ header{
 }
 .bx-menu{
     margin-top: 20px;
-    margin-left: 80px;
+    margin-left: 75px;
 }
 .nav-option-2{
-    height: 300px;
-    width: 300px;
     margin-top:10px
 }
 .nav-option-2 a{
@@ -182,7 +180,7 @@ header.sticky{
     transform:translateY(-15PX);
 }
 .container-text h4{
-    font-size: 15px;
+    font-size: 13px;
     font-weight:700 ;
     margin-bottom: 4px;
     
