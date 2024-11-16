@@ -31,7 +31,7 @@ header{
     align-items: center;
     justify-content: space-between;
     /* background: transparent; */
-    padding: 23px 13% ;
+    padding: 10px 10% ;
     transition: all .40s ease;
 }
 .logo img{
