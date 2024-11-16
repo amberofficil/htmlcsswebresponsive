@@ -157,7 +157,7 @@ header.sticky{
     box-shadow: 0px 4px 15px rgb(0,0,0 / 8%);
 }
 .container{
-    padding: 90px 19%;
+    padding: 30px 4%;
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(400px,auto));
     gap: 1.5rem;
@@ -206,7 +206,7 @@ header.sticky{
     line-height: 1.2;
 }
 .catogories-content{
-    padding: 90px 19%;
+    padding: 30px 4%;
     display: grid;
     grid-template-columns: repeat(auto-fit,minmax(300px,auto));
     gap: 1.5rem;
@@ -320,7 +320,7 @@ header.sticky{
 /* ********************************************************************add image************ */
 
 .contact{
-    padding: 90px 19%;
+    padding: 30px 4%;
     background: var(--bg-color);
 
 }
